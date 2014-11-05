@@ -1,0 +1,2 @@
+class hiera_http{
+}
